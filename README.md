@@ -22,7 +22,7 @@ updates.
 ## Requirements
 
 - python3.8 (last I checked)
-- Twilio accounts with money balance
+- Twilio account with money balance
 
 ## Compilation and Usage
 
